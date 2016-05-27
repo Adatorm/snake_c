@@ -1,5 +1,5 @@
 snake terminal game
-implemented in C language, this is my first game after pass my C programming course.
+implemented in C language,
 
 ##################
 to setup the game
