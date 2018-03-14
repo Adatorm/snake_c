@@ -1,7 +1,7 @@
 snake terminal game
 implemented in C language,
 
- ![alt text](snake_c/data/yilan-oyunu-terminal.png)
+ ![alt text](https://github.com/Stormcun/snake_c/blob/master/data/yilan-oyunu-terminal.png?raw=true)
 
 ##################
 to setup the game
