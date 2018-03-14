@@ -1,6 +1,8 @@
 snake terminal game
 implemented in C language,
 
+ ![alt text](snake_c/data/yilan-oyunu-terminal.png)
+
 ##################
 to setup the game
 
