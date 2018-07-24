@@ -31,5 +31,3 @@ to play game
 	
 -in game, use w a s d button for up/left/down/right.
 
-any question
-e-mail=kurama632@gmail.com
