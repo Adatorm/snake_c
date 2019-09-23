@@ -9,7 +9,7 @@ to setup the game
 
 -install mingw c compiler. -> http://www.mingw.org/
 
--download 3.0.c and makefile files and put them in a folder.
+-download "3.0.c" and "makefile" files and put them in a folder.
 
 -open the folder and in folder press shift key on keyboard, while pressing,
 	click mouse right click and select open command window here.
@@ -17,9 +17,9 @@ to setup the game
 
 -now type make on console and enter.
 
--after that, you can see snake.exe file if the compilation if successful.
+-after that, you can see snake.exe file if the compilation is successful.
 
--double click and open game.
+-double click "snake.exe" and open game.
 
 ###################
 to play game
