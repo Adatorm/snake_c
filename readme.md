@@ -7,6 +7,7 @@ Note: Can compile only on windows
 
 
 ##################
+
 to setup the game
 
 -install mingw c compiler. -> http://www.mingw.org/
@@ -24,6 +25,7 @@ to setup the game
 -double click "snake.exe" and open game.
 
 ###################
+
 to play game
 
 -first, in main menu press 1 to start game, 2 to set snake speed. 3 to exit.
