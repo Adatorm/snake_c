@@ -1,5 +1,6 @@
 snake terminal game
 implemented in C language,
+Note: Can compile only on windows
 
  ![Alt text](https://github.com/Stormcun/snake_c/blob/master/data/yilan-oyunu-terminal.png?raw=true)
 
